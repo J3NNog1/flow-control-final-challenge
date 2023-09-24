@@ -44,6 +44,9 @@ public class FlowControlChallenge {
 
 
             }
+            System.out.println("Sum of even numbers divisible by 4: " + evenDivBy4Sum);
+            System.out.println("Sum of even numbers divisible by 8: " + evenDivBy8Sum);
+            System.out.println("Sum of not even numbers not divisible by 5: " + notEvenNotDivBy5Sum);
 
 
         }
